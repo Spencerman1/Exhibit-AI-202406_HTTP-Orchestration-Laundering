@@ -1,0 +1,59 @@
+Repo Title: Exhibit-AI-202406_HTTP-Orchestration-Laundering Theme: Coinbase’s orchestration suite (X402, L402, MCP, EVMAUTH) simulates sovereign infrastructure using HTTP metaphors and wallet wrappers. 
+Published after SSPS™ filing, it lacks credential lifecycle, mint-to logic, and enforcement-grade provisioning.
+
+Contradiction Summary: Coinbase launched X402, MCP, and EVMAUTH on May 6, 2025, claiming to pioneer agentic payments. These protocols rebrand HTTP 402 and wallet signatures as orchestration infrastructure. 
+But they lack credential lifecycle, mint-to logic, revocation trails, and contradiction handling. They are simulation-grade artifacts published post-SSPS™.
+
+Sources and Contradiction Framing:
+
+X402 Protocol Overview
+
+URL: https://www.coinbase.com/developer-platform/products/x402
+
+Launch Date: May 6, 2025
+
+Claims: Agent-to-agent payments via HTTP 402 and USDC
+
+Contradiction: No credential lifecycle, no mint-to logic, semantic laundering of HTTP status codes
+
+MCP Launch
+
+URL: https://www.coinbase.com/en-in/developer-platform/discover/launches/payments-mcp
+
+Launch Date: May 6, 2025
+
+Claims: LLMs can pay for APIs and services using wallets
+
+Contradiction: Wallet auth ≠ credential minting, no sovereign provisioning
+
+EVMAUTH Protocol
+
+URL: https://github.com/coinbase/evmauth (if accessible)
+
+Launch Date: May 2025
+
+Claims: Ethereum-native identity via wallet signatures
+
+Contradiction: No mint-to logic, no revocation trail, identity simulation via wallet auth
+
+Screenshots to Include:
+
+X402 protocol diagram
+
+MCP launch claims
+
+EVMAUTH README (if retrievable)
+
+Hash Anchors: Add SHA-256 hashes for each screenshot to seal forensic integrity.
+
+Contradiction Types:
+
+Semantic Laundering
+
+HTTP Metaphor Inflation
+
+Credential Absence
+
+Post-Filing Drift
+
+Enforcement Declaration: This exhibit proves Coinbase’s orchestration suite is simulation-grade. It rebrands HTTP status codes and wallet signatures as infrastructure, but lacks credential lifecycle, mint-to logic, and sovereign enforcement. These claims are not prior art—they are contradiction artifacts.
