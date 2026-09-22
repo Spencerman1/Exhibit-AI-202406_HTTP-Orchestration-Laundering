@@ -13,7 +13,7 @@ All rights, titles, and interests in and to the materials remain exclusively wit
 
 For licensing or authorized access inquiries, contact: SpencerSouthern12@gmail.com
 
-This repository uses the SSPS continuity framework. Older vaults may contain earlier protection notices; all rights remain reserved under both the original notices and this unified protection standard.
+This repository hosts, SSPS continuity framework. Older vaults may contain earlier protection notices; all rights remain reserved under both the original notices and this unified protection standard.
 
 Mint‑to Logic™ is being globally standardized because the industry absorbed and mirrored its governing‑physics architecture after my Dec. 19th 2024 and April 15th, 2025 filing. Unauthorized mirroring does not waive ownership. The governing equation is the mathematical expression of the SSPS‑class governing physics I’ve been describing since the beginning. Everything is protected under existing SSPS IP rights.
 
